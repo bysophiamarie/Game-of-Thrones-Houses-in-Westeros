@@ -1,0 +1,34 @@
+.svgBox {
+    width:100vw;
+    height: 100vh;
+}
+h1.GOT_head {
+    font-family: "BentonSansComp-Bold",sans-serif;
+    font-size: 8rem;
+    line-height: 7rem;
+    text-transform: uppercase;
+    margin-top: 10%;
+}
+h2.GOT_head {
+    font-family: "Sentinel-Medium","Georgia",sans-serif;
+    font-size: 3.4rem;
+    line-height: 3.6rem;
+    color: midnightblue ;
+    margin-top: -1rem;
+}
+body {
+   background-image: url("got_background.jpg");
+   background-color:
+}
+div.p {
+     color: black;
+     font-size: 1.2rem;
+     font-family: "Sentinel-Medium","Georgia",sans-serif;
+}
+div.map {
+position: absolute;
+top: 0px;
+right:0px;
+width: 200px;
+height:500px;
+}
